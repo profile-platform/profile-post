@@ -1,0 +1,15 @@
+{
+  "name": "profile-post",
+  "version": "0.1.0",
+  "description": "Postal verification network for Profile",
+  "scripts": {
+      "start": "node index.js"
+  },
+  "main": "index.js",
+  "repository": "https://github.com/profile-platform/profile-post",
+  "author": "Jesse Sibley",
+  "license": "MIT",
+  "dependencies": {
+    "lotion": "^0.1.18"
+  }
+}
